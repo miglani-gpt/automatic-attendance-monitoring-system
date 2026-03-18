@@ -1,0 +1,10 @@
+streamlit
+numpy
+opencv-python
+Pillow
+pandas
+scikit-learn
+scrfd
+insightface
+onnxruntime
+facenet-pytorch
